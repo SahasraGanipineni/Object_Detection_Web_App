@@ -14,3 +14,10 @@ h1{
 #back{
     float: right;
 }
+
+canvas{
+    border: 2px white solid;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px white;
+    margin-top: 100px;
+}

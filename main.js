@@ -2,10 +2,6 @@ function book_screen() {
     window.location = "book.html";
 }
 
-function back() {
-    window.location = "index.html";
-}
-
 function bottles_screen() {
     window.location = "bottle.html";
 }
